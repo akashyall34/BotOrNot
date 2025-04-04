@@ -8,4 +8,4 @@ Additionally, The top three features that are most important in making the class
 ![image](https://github.com/user-attachments/assets/6cc5b967-49a1-43b8-a1be-9461668552d0)
 
 
-BotOrNot was implemente as part of the Social Media Mining course taught by Dr. Raiyan Abdul Baten.
+BotOrNot was implemented as part of the Social Media Mining course taught by Dr. Raiyan Abdul Baten.
